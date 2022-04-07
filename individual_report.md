@@ -47,11 +47,11 @@ I added comments and Gene Ontology plots to the slides and made minor correction
 
 + Our ability to meet regularly via Zoom throughout the project made our schedule easy.
 However, Slack messaging didn't work well as queries that needed immediate responses were sometimes delayed.
-+ The most challenging part of our analysis was solving the issue of missing data. Apart from samples with all metadata missing, other incomplete samples data had only gender missing. So, we agreed to remove samples with all metadata missing and impute data for samples with only one metadata missing- gender. We spent sleepless nights looking for a solution until Aditi eventually succeeded. That was the most rewarding moment!
++ The most challenging part of our analysis was solving the issue of missing data. Apart from samples with all metadata missing, other incomplete samples had only gender missing. So, we agreed to remove samples with all metadata missing and impute data for samples with only one metadata missing- gender. We spent sleepless nights looking for a solution until Aditi eventually succeeded. That was the most rewarding moment!
 
 ## How did you find having members of different backgrounds for a scientific project?
 
-Having members with different backgrounds enabled us to work as a team to tackle challenges. It was helpful to have people studying bioinformatics in our group as they helped with the imputation problem. Dollina played a significant part in machine learning. She also helped me to understand a bit about machine learning.
+Having members with different backgrounds enabled us to work as a team to tackle challenges. It was helpful to have people studying bioinformatics in our group as they helped with the imputation problem. Dollina played a significant role in machine learning. She also helped me to understand a bit about machine learning.
 
 
 ## What have you learned from this group project?
@@ -65,4 +65,7 @@ Having members with different backgrounds enabled us to work as a team to tackle
 ## Any other comments on how the group project could have been structured differently (i.e. delivery requirements, assessment”)
 
 In my opinion, the group project was well structured, especially holding us accountable at various steps such as initial and final proposals, specifying job assignments, the progress report that pushed us to start working on the project, the presentation that taught us presentation skills, technical report and individual report that compelled people to be fully involved in the project knowing that we would give accounts of our contributions towards the project.
+
+## Gratitude
+I am deeply grateful to the teaching team. This course has prepared me for my thesis research. The analysis part of my research will be enjoyable.
 
