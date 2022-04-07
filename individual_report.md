@@ -1,6 +1,6 @@
-## Peer Evaluation
+# Peer Evaluation
 
-**Links to reviews**
+## Links to reviews
 
 + [Group 2](https://github.com/STAT540-UBC-2022/Discussion/issues/80)
 + [Group 3](https://github.com/STAT540-UBC-2022/Discussion/issues/62)
