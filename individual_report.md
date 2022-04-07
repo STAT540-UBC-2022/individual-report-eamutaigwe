@@ -56,6 +56,7 @@ Having members with different backgrounds enabled us to work as a team to tackle
 
 ## What have you learned from this group project?
 
++ I learned much more about RNA-seq analysis
 + I've learned a bit about data imputation
 + I had hands-on experience with machine learning. Apart from the seminars, I practiced PCA and plotting, making scree plots, k-means clustering (which was not used eventually), and logistic regression modelling.
 + I also practiced Gene Ontology analysis using goseq.
